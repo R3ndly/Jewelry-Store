@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+img.db{
+    max-width: 60%;
+    max-height: 40%;
+}
+.footer {
+    background-color: black;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 19px;
+    font-weight: bold;
+    color: #fafaff;
+}
+
+.cart{
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
